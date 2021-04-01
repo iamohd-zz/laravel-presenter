@@ -1,4 +1,4 @@
-# Laravel Eloquent Presenter
+# Laravel Model Presenter
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/smartisan/laravel-presenter.svg?style=flat-square)](https://packagist.org/packages/smartisan/laravel-presenter)
 [![GitHub Tests Action Status](https://github.com/iamohd/laravel-presenter/workflows/run-tests/badge.svg)](https://github.com/iamohd/laravel-presenter/actions?query=workflow%3Arun-tests)
